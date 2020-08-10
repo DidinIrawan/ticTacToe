@@ -1,0 +1,4 @@
+package com.example.tictactoe
+
+val FIRST_PLAYER_NAME= "FIRST_PLAYER_NAME"
+val SECOND_PLAYER_NAME= "SECOND_PLAYER_NAME"
